@@ -1,0 +1,42 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="OscarWays"
+credits="Arcanum is made by HellBreecher (http://arcanum.hellbreecher.com/). This is an unofficial addon."
+description='''
+Unofficial addon for Arcanum: configurable weapon, tool and armor values, and JEI pages for everything Arcanum does not show (upgrade recipes, fermenter, Firebolt transmutations and binding rituals).
+
+Defaults match the original Arcanum values: installed as-is, it only adds the JEI pages.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="arcanum"
+    type="required"
+    # Only the tested Arcanum version: future releases include official JEI support.
+    versionRange="[26.2-10.2.1.0]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="jei"
+    type="optional"
+    versionRange="*"
+    ordering="NONE"
+    side="CLIENT"

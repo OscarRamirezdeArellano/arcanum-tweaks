@@ -1,0 +1,18 @@
+{
+  "arcanum_tweaks.jei.upgrades": "Arcanum Upgrades",
+  "arcanum_tweaks.jei.upgrades.previous_item": "Your previous-tier item: keeps its enchantments",
+  "arcanum_tweaks.jei.upgrades.keeps_enchantments": "Keeps enchantments",
+  "arcanum_tweaks.jei.fermenter": "Arcanum Fermenter",
+  "arcanum_tweaks.jei.fermenter.base": "Base",
+  "arcanum_tweaks.jei.firebolt": "Firebolt Transmutation",
+  "arcanum_tweaks.jei.firebolt.placed_block": "Cast Firebolt at the placed block",
+  "arcanum_tweaks.jei.firebolt.dropped_item": "Cast Firebolt at the dropped item",
+  "arcanum_tweaks.jei.rituals": "Binding Rituals",
+  "arcanum_tweaks.jei.ritual.in_hand": "Held in hand",
+  "arcanum_tweaks.jei.ritual.on_ground": "Dropped on the ground",
+  "arcanum_tweaks.jei.ritual.found_in": "Found in: %s",
+  "arcanum_tweaks.jei.ritual.steps": "Look at the binding (up to 8 blocks away) and cast the binding. Takes %s s and costs %s mana.",
+  "arcanum_tweaks.jei.ritual.danger": "Night falls and mob waves attack you: stay alive. Does not work on Peaceful.",
+  "arcanum_tweaks.jei.ritual.origin.codex": "dungeon, mineshaft, temple, mansion and stronghold chests",
+  "arcanum_tweaks.jei.ritual.origin.grimoire": "End City chests"
+}

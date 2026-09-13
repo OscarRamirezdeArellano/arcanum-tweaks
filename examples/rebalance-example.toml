@@ -1,0 +1,158 @@
+#Arcanum Tweaks - weapon, tool and armor values for Arcanum.
+#Damage is the value shown in-game (it includes the player's base 1 damage).
+#All defaults are the original Arcanum values: leave them as-is and nothing changes.
+#IMPORTANT: this file is not synced. The server and every client must have the same file.
+[green_sapphire]
+	# Default: 12.0
+	# Range: 1.0 ~ 1000000.0
+	sword_damage = 9.0
+	# Default: 17.0
+	# Range: 1.0 ~ 1000000.0
+	axe_damage = 11.0
+	# Default: 12.0
+	# Range: 1.0 ~ 1000000.0
+	pickaxe_damage = 7.0
+	# Default: 12.5
+	# Range: 1.0 ~ 1000000.0
+	shovel_damage = 7.5
+	# Default: 9.0
+	# Range: 1.0 ~ 1000000.0
+	hoe_damage = 1.0
+	#Beating Stick of this tier (Green Sapphire uses the Sapphire Beating Stick). Always unbreakable.
+	# Default: 12.0
+	# Range: 1.0 ~ 1000000.0
+	beating_stick_damage = 9.0
+	# Default: 10.0
+	# Range: 0.1 ~ 1000000.0
+	mining_speed = 10.0
+	#0 = unbreakable. Applies to tools, swords and shears.
+	# Default: 1500
+	# Range: > 0
+	durability = 2000
+	# Default: 20.0
+	# Range: 0.0 ~ 1000000.0
+	armor_toughness = 3.0
+
+[blood_diamond]
+	# Default: 52.0
+	# Range: 1.0 ~ 1000000.0
+	sword_damage = 11.0
+	# Default: 57.0
+	# Range: 1.0 ~ 1000000.0
+	axe_damage = 13.0
+	# Default: 52.0
+	# Range: 1.0 ~ 1000000.0
+	pickaxe_damage = 9.0
+	# Default: 52.5
+	# Range: 1.0 ~ 1000000.0
+	shovel_damage = 9.5
+	# Default: 49.0
+	# Range: 1.0 ~ 1000000.0
+	hoe_damage = 1.0
+	#Beating Stick of this tier (Green Sapphire uses the Sapphire Beating Stick). Always unbreakable.
+	# Default: 52.0
+	# Range: 1.0 ~ 1000000.0
+	beating_stick_damage = 11.0
+	# Default: 20.0
+	# Range: 0.1 ~ 1000000.0
+	mining_speed = 12.0
+	#0 = unbreakable. Applies to tools, swords and shears.
+	# Default: 3000
+	# Range: > 0
+	durability = 3000
+	# Default: 40.0
+	# Range: 0.0 ~ 1000000.0
+	armor_toughness = 4.0
+
+[void_diamond]
+	# Default: 77.0
+	# Range: 1.0 ~ 1000000.0
+	sword_damage = 13.0
+	# Default: 82.0
+	# Range: 1.0 ~ 1000000.0
+	axe_damage = 15.0
+	# Default: 77.0
+	# Range: 1.0 ~ 1000000.0
+	pickaxe_damage = 11.0
+	# Default: 77.5
+	# Range: 1.0 ~ 1000000.0
+	shovel_damage = 11.5
+	# Default: 74.0
+	# Range: 1.0 ~ 1000000.0
+	hoe_damage = 1.0
+	#Beating Stick of this tier (Green Sapphire uses the Sapphire Beating Stick). Always unbreakable.
+	# Default: 77.0
+	# Range: 1.0 ~ 1000000.0
+	beating_stick_damage = 13.0
+	# Default: 50.0
+	# Range: 0.1 ~ 1000000.0
+	mining_speed = 15.0
+	#0 = unbreakable. Applies to tools, swords and shears.
+	# Default: 6000
+	# Range: > 0
+	durability = 4500
+	# Default: 60.0
+	# Range: 0.0 ~ 1000000.0
+	armor_toughness = 5.0
+
+[infernal_diamond]
+	# Default: 102.0
+	# Range: 1.0 ~ 1000000.0
+	sword_damage = 16.0
+	# Default: 107.0
+	# Range: 1.0 ~ 1000000.0
+	axe_damage = 18.0
+	# Default: 102.0
+	# Range: 1.0 ~ 1000000.0
+	pickaxe_damage = 14.0
+	# Default: 102.5
+	# Range: 1.0 ~ 1000000.0
+	shovel_damage = 14.5
+	# Default: 99.0
+	# Range: 1.0 ~ 1000000.0
+	hoe_damage = 1.0
+	#Beating Stick of this tier (Green Sapphire uses the Sapphire Beating Stick). Always unbreakable.
+	# Default: 102.0
+	# Range: 1.0 ~ 1000000.0
+	beating_stick_damage = 16.0
+	# Default: 100.0
+	# Range: 0.1 ~ 1000000.0
+	mining_speed = 20.0
+	#0 = unbreakable. Applies to tools, swords and shears.
+	# Default: 8000
+	# Range: > 0
+	durability = 6000
+	# Default: 80.0
+	# Range: 0.0 ~ 1000000.0
+	armor_toughness = 5.0
+
+[infernal]
+	# Default: 100002.0
+	# Range: 1.0 ~ 1000000.0
+	sword_damage = 20.0
+	# Default: 100007.0
+	# Range: 1.0 ~ 1000000.0
+	axe_damage = 22.0
+	# Default: 100002.0
+	# Range: 1.0 ~ 1000000.0
+	pickaxe_damage = 18.0
+	# Default: 100002.5
+	# Range: 1.0 ~ 1000000.0
+	shovel_damage = 18.5
+	# Default: 99999.0
+	# Range: 1.0 ~ 1000000.0
+	hoe_damage = 1.0
+	#Beating Stick of this tier (Green Sapphire uses the Sapphire Beating Stick). Always unbreakable.
+	# Default: 100002.0
+	# Range: 1.0 ~ 1000000.0
+	beating_stick_damage = 20.0
+	# Default: 500.0
+	# Range: 0.1 ~ 1000000.0
+	mining_speed = 30.0
+	#0 = unbreakable. Applies to tools, swords and shears.
+	# Default: 0
+	# Range: > 0
+	durability = 0
+	# Default: 9999.0
+	# Range: 0.0 ~ 1000000.0
+	armor_toughness = 5.0

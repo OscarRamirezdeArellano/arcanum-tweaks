@@ -1,0 +1,18 @@
+{
+  "arcanum_tweaks.jei.upgrades": "Mejoras de Arcanum",
+  "arcanum_tweaks.jei.upgrades.previous_item": "Tu pieza del tier anterior: conserva sus encantamientos",
+  "arcanum_tweaks.jei.upgrades.keeps_enchantments": "Conserva encantamientos",
+  "arcanum_tweaks.jei.fermenter": "Fermentador de Arcanum",
+  "arcanum_tweaks.jei.fermenter.base": "Base",
+  "arcanum_tweaks.jei.firebolt": "Transmutación con Firebolt",
+  "arcanum_tweaks.jei.firebolt.placed_block": "Firebolt al bloque colocado",
+  "arcanum_tweaks.jei.firebolt.dropped_item": "Firebolt al objeto en el suelo",
+  "arcanum_tweaks.jei.rituals": "Rituales de vinculación",
+  "arcanum_tweaks.jei.ritual.in_hand": "En la mano",
+  "arcanum_tweaks.jei.ritual.on_ground": "Tirado en el suelo",
+  "arcanum_tweaks.jei.ritual.found_in": "Sale en: %s",
+  "arcanum_tweaks.jei.ritual.steps": "Mira el binding (hasta 8 bloques) y lanza la vinculación. Tarda %s s y cuesta %s de maná.",
+  "arcanum_tweaks.jei.ritual.danger": "Se hace de noche y llegan oleadas de mobs: aguanta vivo. No funciona en Pacífico.",
+  "arcanum_tweaks.jei.ritual.origin.codex": "cofres de mazmorras, minas abandonadas, templos, mansiones y fortalezas",
+  "arcanum_tweaks.jei.ritual.origin.grimoire": "cofres de ciudades del End"
+}
