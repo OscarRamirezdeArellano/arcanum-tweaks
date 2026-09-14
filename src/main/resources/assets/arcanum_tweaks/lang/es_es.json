@@ -13,6 +13,6 @@
   "arcanum_tweaks.jei.ritual.found_in": "Sale en: %s",
   "arcanum_tweaks.jei.ritual.steps": "Mira el binding (hasta 8 bloques) y lanza la vinculación. Tarda %s s y cuesta %s de maná.",
   "arcanum_tweaks.jei.ritual.danger": "Se hace de noche y llegan oleadas de mobs: aguanta vivo. No funciona en Pacífico.",
-  "arcanum_tweaks.jei.ritual.origin.codex": "cofres de mazmorras, minas abandonadas, templos, mansiones y fortalezas",
+  "arcanum_tweaks.jei.ritual.origin.codex": "cofres de la biblioteca de fortalezas, mansiones del bosque, sala del tesoro de bastiones, ciudades antiguas y ciudades del End (solo estructuras vanilla)",
   "arcanum_tweaks.jei.ritual.origin.grimoire": "cofres de ciudades del End"
 }

@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1
+
+**EN**
+- Fixed the Binding Rituals page: the Codex Binding is found in stronghold library, woodland mansion, bastion treasure, ancient city and End City chests, not in dungeons, mineshafts or temples.
+
+**ES**
+- Corregida la página de Rituales de vinculación: el Codex Binding sale en cofres de la biblioteca de fortalezas, mansiones del bosque, sala del tesoro de bastiones, ciudades antiguas y ciudades del End, no en mazmorras, minas ni templos.
+
 ## 1.0.0
 
 **EN**

@@ -13,6 +13,6 @@
   "arcanum_tweaks.jei.ritual.found_in": "Found in: %s",
   "arcanum_tweaks.jei.ritual.steps": "Look at the binding (up to 8 blocks away) and cast the binding. Takes %s s and costs %s mana.",
   "arcanum_tweaks.jei.ritual.danger": "Night falls and mob waves attack you: stay alive. Does not work on Peaceful.",
-  "arcanum_tweaks.jei.ritual.origin.codex": "dungeon, mineshaft, temple, mansion and stronghold chests",
+  "arcanum_tweaks.jei.ritual.origin.codex": "stronghold library, woodland mansion, bastion treasure, ancient city and End City chests (vanilla structures only)",
   "arcanum_tweaks.jei.ritual.origin.grimoire": "End City chests"
 }
